@@ -1,0 +1,51 @@
+AIzaSyAl_edpxpR6QZrHPLkTkb-cDENj5WGwm7c gemini api
+
+
+
+
+agent name BookAwaits123
+
+
+
+ID: plan-iternary-pop_1736494396903
+name of data plan iternary pop
+
+
+bookawaits123_1736494616574
+
+
+<link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+<df-messenger
+  project-id="prj1-445104"
+  agent-id="07372562-d199-4903-9870-a4de90cbdc0b"
+  language-code="en"
+  max-query-length="-1">
+  <df-messenger-chat-bubble
+   chat-title="BookAwaits123">
+  </df-messenger-chat-bubble>
+</df-messenger>
+<style>
+  df-messenger {
+    z-index: 999;
+    position: fixed;
+    --df-messenger-font-color: #000;
+    --df-messenger-font-family: Google Sans;
+    --df-messenger-chat-background: #f3f6fc;
+    --df-messenger-message-user-background: #d3e3fd;
+    --df-messenger-message-bot-background: #fff;
+    bottom: 16px;
+    right: 16px;
+  }
+</style>
+
+
+service acc name
+travelbot-sa@travelbot-450005.iam.gserviceaccount.com
+
+travelbot_1738742420664.
+
+
+data store name id  check-travel_1738755411742.
+
+autoriaztion code :  4/0ASVgi3JW6IBSJXJEupyRMOYlnf9ulZfaWrnS1M8IPL0IlJl6g0krecZlOwz9zIrfbBfpfA
